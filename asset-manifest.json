@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/merareactaap/static/css/main.37165d10.css",
+    "main.js": "/merareactaap/static/js/main.ab57a080.js",
+    "index.html": "/merareactaap/index.html",
+    "main.37165d10.css.map": "/merareactaap/static/css/main.37165d10.css.map",
+    "main.ab57a080.js.map": "/merareactaap/static/js/main.ab57a080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37165d10.css",
+    "static/js/main.ab57a080.js"
+  ]
+}
