@@ -40,6 +40,8 @@ function App() {
   return (
     // <Router>
     <div>
+    //this is my namvbar
+    
       <Navbar
         title="Textutils"
         abouttext="About"
